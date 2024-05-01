@@ -1,0 +1,26 @@
+.main{
+    background-color:rgb(105, 129, 150);
+}
+
+h1{
+    text-align:center ;
+    text-decoration: dotted;
+    background-color:rgb(84, 162, 229);
+    font-family: cursive;
+    clear:left;
+    
+}
+
+
+
+p{
+    font-size:larger;
+}
+.cartoon{
+    width:500px;
+    font-size: 30px;
+}
+form{
+    font-size: 20px;
+}
+

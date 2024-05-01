@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: burlywood;
+}
+<h1 class="vim">SOUTH <span class="col1">INDIAN</span> <Span class="col2">FOOD</Span></h1
+}
+.rohi{
+    background-image: url(./Masala-Dosa.jpg);
+        
+        margin: 2;
+        padding: 0;
+        height: 110vh;
+        width: 100vw;
+        margin-top: gvb-25px;
+        margin-left: -10px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+    
+}
+.title{
+    color: black;
+}
+
+
